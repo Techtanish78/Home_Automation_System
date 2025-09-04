@@ -122,7 +122,7 @@ Example of an alert received when temperature goes above 31°C.
 ---
 
 ✅ Done! Your ESP8266 will now send sensor values to the Arduino IoT Cloud, and you can monitor/control everything via the **Web Dashboard** or the **Arduino IoT Remote app** (available on Android & iOS).  
-## 📷 Screenshots
+
 
 ---
 
