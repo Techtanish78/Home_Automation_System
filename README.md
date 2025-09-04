@@ -89,12 +89,8 @@ These will sync automatically with your code through `thingProperties.h`.
 - **Board**: NodeMCU 1.0 (ESP-12E Module).  
 - **Port**: The COM port of your ESP8266.  
 - Click **Upload**.  
-### . Serial Monitor Output
-ESP8266 printing live temperature and humidity readings every 5 seconds.  
-![Serial Output](Docs/serial.png)
 
-
----
+--
 
 ### 6. Create a Dashboard
 - In Arduino IoT Cloud, go to **Dashboards → Create Dashboard**.  
