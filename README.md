@@ -101,7 +101,7 @@ These will sync automatically with your code through `thingProperties.h`.
 - Link each widget to the variables you created (`temp`, `humid`, `lED`).  
 ### . Arduino IoT Cloud Dashboard
 Dashboard showing real-time temperature, humidity, and LED control.  
-![Dashboard Screenshot](Docs/dashboard.png)
+![Dashboard Screenshot]
 
 
 ---
@@ -112,7 +112,7 @@ Dashboard showing real-time temperature, humidity, and LED control.
 - Add a **Trigger** in your Thing: `if temperature > 31°C → send Webhook`.  
 ### . IFTTT Alert Notification
 Example of an alert received when temperature goes above 31°C.  
-![IFTTT Alert](Docs/ifttt.png)
+![IFTTT Alert]
 
 
 ---
